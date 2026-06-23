@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Databases & Large Data Files (Exceeded GitHub limits)
+*.db
+*.db.wal
+dw_covid.db
+*.csv
+*.parquet
+
+# Streamlit
+.streamlit/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
